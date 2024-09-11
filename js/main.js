@@ -64,7 +64,7 @@ const skillBaseData = {
     "Meditation": {name: "Meditation", maxXp: 1, effect: 0.05, description: "Happiness"},
 
     "Strength": {name: "Strength", maxXp: 100, effect: 0.01, description: "Military pay"},
-    "Battle tactics": {name: "Battle tactics", maxXp: 100, effect: 0.01, description: "Military xp"},
+    "Battle tactics": {name: "Battle tactics", maxXp: 0.001, effect: 0.01, description: "Military xp"},
     "Muscle memory": {name: "Muscle memory", maxXp: 100, effect: 0.01, description: "Strength xp"},
 
     "Mana control": {name: "Mana control", maxXp: 0.1, effect: 0.01, description: "T.A.A. xp"},
