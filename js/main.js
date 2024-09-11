@@ -42,12 +42,12 @@ const jobBaseData = {
 
     "Squire": {name: "Squire", maxXp: 100, income: 5},
     "Footman": {name: "Footman", maxXp: 1000, income: 50},
-    "Veteran footman": {name: "Veteran footman", maxXp: 10000, income: 120},
-    "Knight": {name: "Knight", maxXp: 100000, income: 300},
-    "Veteran knight": {name: "Veteran knight", maxXp: 1000000, income: 1000},
-    "Elite knight": {name: "Elite knight", maxXp: 7500000, income: 3000},
-    "Holy knight": {name: "Holy knight", maxXp: 40000000, income: 15000},
-    "Legendary knight": {name: "Legendary knight", maxXp: 150000000, income: 50000},
+    "Veteran footman": {name: "Veteran footman", maxXp: 5000, income: 120},
+    "Knight": {name: "Knight", maxXp: 7000, income: 300},
+    "Veteran knight": {name: "Veteran knight", maxXp: 10000, income: 1000},
+    "Elite knight": {name: "Elite knight", maxXp: 15000, income: 3000},
+    "Holy knight": {name: "Holy knight", maxXp: 100000, income: 15000},
+    "Legendary knight": {name: "Legendary knight", maxXp: 150000, income: 50000},
 
     "Student": {name: "Student", maxXp: 100000, income: 100},
     "Apprentice mage": {name: "Apprentice mage", maxXp: 1000000, income: 1000},
@@ -58,10 +58,10 @@ const jobBaseData = {
 }
 
 const skillBaseData = {
-    "Concentration": {name: "Concentration", maxXp: 100, effect: 0.01, description: "Skill xp"},
-    "Productivity": {name: "Productivity", maxXp: 100, effect: 0.01, description: "Job xp"},
-    "Bargaining": {name: "Bargaining", maxXp: 100, effect: -0.01, description: "Expenses"},
-    "Meditation": {name: "Meditation", maxXp: 100, effect: 0.01, description: "Happiness"},
+    "Concentration": {name: "Concentration", maxXp: 10, effect: 0.02, description: "Skill xp"},
+    "Productivity": {name: "Productivity", maxXp: 100, effect: 0.02, description: "Job xp"},
+    "Bargaining": {name: "Bargaining", maxXp: 100, effect: -0.02, description: "Expenses"},
+    "Meditation": {name: "Meditation", maxXp: 100, effect: 0.05, description: "Happiness"},
 
     "Strength": {name: "Strength", maxXp: 100, effect: 0.01, description: "Military pay"},
     "Battle tactics": {name: "Battle tactics", maxXp: 100, effect: 0.01, description: "Military xp"},
