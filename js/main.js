@@ -49,12 +49,12 @@ const jobBaseData = {
     "Holy knight": {name: "Holy knight", maxXp: 100000, income: 15000},
     "Legendary knight": {name: "Legendary knight", maxXp: 150000, income: 50000},
 
-    "Student": {name: "Student", maxXp: 100000, income: 100},
-    "Apprentice mage": {name: "Apprentice mage", maxXp: 1000000, income: 1000},
-    "Mage": {name: "Mage", maxXp: 10000000, income: 7500},
-    "Wizard": {name: "Wizard", maxXp: 100000000, income: 50000},
-    "Master wizard": {name: "Master wizard", maxXp: 10000000000, income: 250000},
-    "Chairman": {name: "Chairman", maxXp: 1000000000000, income: 1000000},
+    "Student": {name: "Student", maxXp: 1000, income: 100},
+    "Apprentice mage": {name: "Apprentice mage", maxXp: 10000, income: 1000},
+    "Mage": {name: "Mage", maxXp: 10000, income: 7500},
+    "Wizard": {name: "Wizard", maxXp: 100000, income: 50000},
+    "Master wizard": {name: "Master wizard", maxXp: 100000, income: 250000},
+    "Chairman": {name: "Chairman", maxXp: 10000000, income: 1000000},
 }
 
 const skillBaseData = {
