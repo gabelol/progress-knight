@@ -67,7 +67,7 @@ const skillBaseData = {
     "Battle tactics": {name: "Battle tactics", maxXp: 0.001, effect: 0.01, description: "Military xp"},
     "Muscle memory": {name: "Muscle memory", maxXp: 100, effect: 0.01, description: "Strength xp"},
 
-    "Mana control": {name: "Mana control", maxXp: 0.1, effect: 0.01, description: "T.A.A. xp"},
+    "Mana control": {name: "Mana control", maxXp: 0.01, effect: 0.01, description: "T.A.A. xp"},
     "Immortality": {name: "Immortality", maxXp: 1, effect: 0.01, description: "Longer lifespan"},
     "Time warping": {name: "Time warping", maxXp: 1, effect: 0.01, description: "Gamespeed"},
     "Super immortality": {name: "Super immortality", maxXp: 1, effect: 0.01, description: "Longer lifespan"},
